@@ -1,0 +1,40 @@
+.slogan {
+  color: #fafafa ;
+}
+.border-red {
+  border-radius: 5px;
+}
+.coupon {
+  align-items: center;
+  border: 2px dashed grey;
+  margin: 10px;
+  transition: all .2s ease-in-out;
+}
+.coupon:hover{
+  transform: scale(1.1);
+}
+
+.coupon h5 {
+  font-size: 25px;
+}
+.coupon p {
+  font-size: 18px;
+  padding-bottom: 0;
+}
+.coupons {
+  display: flex;
+  justify-content: space-between;
+
+}
+
+.grow {
+  border-radius: 10px;
+  transition: all .2s ease-in-out;
+}
+.grow:hover{
+  transform: scale(1.1);
+}
+
+.collapse {
+  opacity: 1 !important;
+}
