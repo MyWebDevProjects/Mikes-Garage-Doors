@@ -1,10 +1,10 @@
 <?php
  
-    $to = "wowthemesnet@gmail.com"; 
+    $to = "yuda8855@gmail.com"; 
     $from = $_REQUEST['email']; 
     $name = $_REQUEST['name']; 
     $headers = "From: $from"; 
-    $subject = "Message via RunCharity"; 
+    $subject = "Message via MikeSite"; 
  
     $fields = array(); 
     $fields{"name"} = "name"; 

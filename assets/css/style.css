@@ -47,8 +47,8 @@ h6 {
 }
 p.lead {
 	font-size:24px;
-	font-weight:200;
-    color: #708090;
+	font-weight:600;
+    color: #696969;
 }
 p {
 	margin-bottom:20px;
@@ -380,7 +380,7 @@ label {
 	width:100%;
 	top:0;
 	position:fixed;
-	background-image:url(http://unsplash.it/1600/600?random=1);
+	background-image:url(/assets/img/services/gdcc.jpg);  /*http://unsplash.it/1600/600?random=1*/
 	background-position:center center;
 	background-repeat:no-repeat;
 	-webkit-background-size: cover;
