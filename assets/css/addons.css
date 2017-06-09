@@ -1,9 +1,15 @@
 .dropdown-menu {
     color: black;
-    padding-left: 35px;
+    padding-left: 25px;
     font-size: 16px ;
     text-align: left;
     font-family: helvetica;
+    min-width: 180px !important;
+    
+}
+.navbar-inverse .navbar-nav>.open>a, .navbar-inverse .navbar-nav>.open>a:focus{
+    background-color: aliceblue;
+    color: #01b0d1;
     
 }
 
@@ -17,3 +23,11 @@
     color: #fff;
 }
 
+.call-now {
+    text-align: center;
+    color: darkslategray;
+}
+
+call-now  {
+    
+}
